@@ -1,0 +1,4 @@
+#convertion of kilometers into centimeter
+km=int(input("enter kilometers :"))
+cm=km*(100000)
+print('centimeters:',cm)
