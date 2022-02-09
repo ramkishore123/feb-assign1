@@ -1,4 +1,4 @@
-#working on comparision operators take two inputs and perform all cmparisiom operations
+#working on comparison operators take two inputs and perform all comparisiom operations
 a=10
 b=20
 print('a<b is:',a<b)
