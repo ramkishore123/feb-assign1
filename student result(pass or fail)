@@ -1,0 +1,11 @@
+#program to generate student result whether pass or fail
+sno=int(input('enter student number:'))
+sname=input('enter student name:')
+sgroup=input('enter group name:')
+s1=int(input('maths marks:'))
+s2=int(input('electronics marks:'))
+s3=int(input('computers marks:'))
+if s1>35 and s2>35 and s3>35:
+      print('student passed')
+else:
+      print('student failed')
