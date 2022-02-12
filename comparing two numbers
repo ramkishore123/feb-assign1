@@ -7,5 +7,5 @@ if a!=b:
      print('a,b values are not equal')
 if a>b:
      print('a is greater than b')
-else:
+if a<b:
      print('a is smaller than b')
